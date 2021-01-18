@@ -68,7 +68,8 @@ export const parameters = {
         [
           'UQ Maps',
           [
-            'Overview'
+            'Overview',
+            'UX models'
           ]
         ]
       ]
