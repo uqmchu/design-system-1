@@ -1,6 +1,6 @@
 {
   "name": "storybook-html",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Storybook for HTML instance for uqds component development",
   "private": true,
   "main": "index.js",
@@ -28,7 +28,7 @@
     "@storybook/theming": "^6.1.11",
     "@uqds/accordion": "^1.0.0",
     "@uqds/alert": "^1.0.0",
-    "@uqds/app-maps": "^1.0.0",
+    "@uqds/app-maps": "^1.0.1",
     "@uqds/blockquote": "^1.0.0",
     "@uqds/body": "^1.0.0",
     "@uqds/breadcrumb": "^1.0.0",
